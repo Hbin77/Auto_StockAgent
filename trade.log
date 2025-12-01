@@ -1,0 +1,108 @@
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T11:35:33.494Z"}
+warn: Insufficient data for AAPL {"timestamp":"2025-12-01T11:35:33.499Z"}
+warn: Insufficient data for MSFT {"timestamp":"2025-12-01T11:35:33.499Z"}
+warn: Insufficient data for AMZN {"timestamp":"2025-12-01T11:35:33.500Z"}
+warn: Insufficient data for NVDA {"timestamp":"2025-12-01T11:35:33.500Z"}
+warn: Insufficient data for GOOGL {"timestamp":"2025-12-01T11:35:33.501Z"}
+warn: Insufficient data for META {"timestamp":"2025-12-01T11:35:33.501Z"}
+warn: Insufficient data for TSLA {"timestamp":"2025-12-01T11:35:33.501Z"}
+warn: Insufficient data for AVGO {"timestamp":"2025-12-01T11:35:33.501Z"}
+warn: Insufficient data for PEP {"timestamp":"2025-12-01T11:35:33.501Z"}
+warn: Insufficient data for COST {"timestamp":"2025-12-01T11:35:33.502Z"}
+warn: Insufficient data for JPM {"timestamp":"2025-12-01T11:35:33.502Z"}
+warn: Insufficient data for V {"timestamp":"2025-12-01T11:35:33.502Z"}
+warn: Insufficient data for PG {"timestamp":"2025-12-01T11:35:33.502Z"}
+warn: Insufficient data for MA {"timestamp":"2025-12-01T11:35:33.502Z"}
+warn: Insufficient data for HD {"timestamp":"2025-12-01T11:35:33.502Z"}
+warn: Insufficient data for CVX {"timestamp":"2025-12-01T11:35:33.502Z"}
+warn: Insufficient data for MRK {"timestamp":"2025-12-01T11:35:33.502Z"}
+warn: Insufficient data for ABBV {"timestamp":"2025-12-01T11:35:33.502Z"}
+warn: Insufficient data for KO {"timestamp":"2025-12-01T11:35:33.502Z"}
+warn: Insufficient data for LLY {"timestamp":"2025-12-01T11:35:33.502Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T11:35:33.502Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T11:36:31.616Z"}
+info: Analysis for AAPL: Score 35 (HOLD) {"timestamp":"2025-12-01T11:36:32.829Z"}
+info: Analysis for MSFT: Score 35 (HOLD) {"timestamp":"2025-12-01T11:36:33.097Z"}
+info: Analysis for AMZN: Score 35 (HOLD) {"timestamp":"2025-12-01T11:36:33.371Z"}
+info: Analysis for NVDA: Score 35 (HOLD) {"timestamp":"2025-12-01T11:36:33.736Z"}
+info: Analysis for GOOGL: Score 35 (HOLD) {"timestamp":"2025-12-01T11:36:34.110Z"}
+info: Analysis for META: Score 50 (HOLD) {"timestamp":"2025-12-01T11:36:34.383Z"}
+info: Analysis for TSLA: Score 55 (HOLD) {"timestamp":"2025-12-01T11:36:34.672Z"}
+info: Analysis for AVGO: Score 10 (SELL) {"timestamp":"2025-12-01T11:36:34.944Z"}
+info: [SIGNAL] SELL AVGO @ 402.96 {"timestamp":"2025-12-01T11:36:34.945Z"}
+info: Analysis for PEP: Score 65 (BUY) {"timestamp":"2025-12-01T11:36:35.211Z"}
+info: Analysis for COST: Score 10 (SELL) {"timestamp":"2025-12-01T11:36:35.479Z"}
+info: [SIGNAL] SELL COST @ 913.59 {"timestamp":"2025-12-01T11:36:35.479Z"}
+info: Analysis for JPM: Score 25 (SELL) {"timestamp":"2025-12-01T11:36:35.759Z"}
+info: [SIGNAL] SELL JPM @ 313.08 {"timestamp":"2025-12-01T11:36:35.760Z"}
+info: Analysis for V: Score 10 (SELL) {"timestamp":"2025-12-01T11:36:36.025Z"}
+info: [SIGNAL] SELL V @ 334.44 {"timestamp":"2025-12-01T11:36:36.026Z"}
+info: Analysis for PG: Score 25 (SELL) {"timestamp":"2025-12-01T11:36:36.289Z"}
+info: [SIGNAL] SELL PG @ 148.16 {"timestamp":"2025-12-01T11:36:36.289Z"}
+info: Analysis for MA: Score 10 (SELL) {"timestamp":"2025-12-01T11:36:36.561Z"}
+info: [SIGNAL] SELL MA @ 550.53 {"timestamp":"2025-12-01T11:36:36.561Z"}
+info: Analysis for HD: Score 25 (SELL) {"timestamp":"2025-12-01T11:36:36.829Z"}
+info: [SIGNAL] SELL HD @ 356.92 {"timestamp":"2025-12-01T11:36:36.829Z"}
+info: Analysis for CVX: Score 25 (SELL) {"timestamp":"2025-12-01T11:36:37.104Z"}
+info: [SIGNAL] SELL CVX @ 151.13 {"timestamp":"2025-12-01T11:36:37.104Z"}
+info: Analysis for MRK: Score 50 (HOLD) {"timestamp":"2025-12-01T11:36:37.406Z"}
+info: Analysis for ABBV: Score 10 (SELL) {"timestamp":"2025-12-01T11:36:37.684Z"}
+info: [SIGNAL] SELL ABBV @ 227.7 {"timestamp":"2025-12-01T11:36:37.684Z"}
+info: Analysis for KO: Score 25 (SELL) {"timestamp":"2025-12-01T11:36:37.962Z"}
+info: [SIGNAL] SELL KO @ 73.12 {"timestamp":"2025-12-01T11:36:37.962Z"}
+info: Analysis for LLY: Score 40 (HOLD) {"timestamp":"2025-12-01T11:36:38.230Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T11:36:38.230Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T11:40:00.787Z"}
+warn: Insufficient data for AAPL {"timestamp":"2025-12-01T11:40:00.788Z"}
+warn: Insufficient data for MSFT {"timestamp":"2025-12-01T11:40:00.789Z"}
+warn: Insufficient data for AMZN {"timestamp":"2025-12-01T11:40:00.789Z"}
+warn: Insufficient data for NVDA {"timestamp":"2025-12-01T11:40:00.789Z"}
+warn: Insufficient data for GOOGL {"timestamp":"2025-12-01T11:40:00.790Z"}
+warn: Insufficient data for META {"timestamp":"2025-12-01T11:40:00.790Z"}
+warn: Insufficient data for TSLA {"timestamp":"2025-12-01T11:40:00.790Z"}
+warn: Insufficient data for AVGO {"timestamp":"2025-12-01T11:40:00.790Z"}
+warn: Insufficient data for PEP {"timestamp":"2025-12-01T11:40:00.791Z"}
+warn: Insufficient data for COST {"timestamp":"2025-12-01T11:40:00.791Z"}
+warn: Insufficient data for JPM {"timestamp":"2025-12-01T11:40:00.791Z"}
+warn: Insufficient data for V {"timestamp":"2025-12-01T11:40:00.791Z"}
+warn: Insufficient data for PG {"timestamp":"2025-12-01T11:40:00.792Z"}
+warn: Insufficient data for MA {"timestamp":"2025-12-01T11:40:00.792Z"}
+warn: Insufficient data for HD {"timestamp":"2025-12-01T11:40:00.793Z"}
+warn: Insufficient data for CVX {"timestamp":"2025-12-01T11:40:00.793Z"}
+warn: Insufficient data for MRK {"timestamp":"2025-12-01T11:40:00.793Z"}
+warn: Insufficient data for ABBV {"timestamp":"2025-12-01T11:40:00.793Z"}
+warn: Insufficient data for KO {"timestamp":"2025-12-01T11:40:00.794Z"}
+warn: Insufficient data for LLY {"timestamp":"2025-12-01T11:40:00.794Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T11:40:00.794Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T11:40:00.860Z"}
+info: Analysis for AAPL: Score 35 (HOLD) {"timestamp":"2025-12-01T11:40:01.386Z"}
+info: Analysis for MSFT: Score 35 (HOLD) {"timestamp":"2025-12-01T11:40:01.718Z"}
+info: Analysis for AMZN: Score 35 (HOLD) {"timestamp":"2025-12-01T11:40:02.050Z"}
+info: Analysis for NVDA: Score 35 (HOLD) {"timestamp":"2025-12-01T11:40:02.397Z"}
+info: Analysis for GOOGL: Score 35 (HOLD) {"timestamp":"2025-12-01T11:40:02.718Z"}
+info: Analysis for META: Score 35 (HOLD) {"timestamp":"2025-12-01T11:40:03.053Z"}
+info: Analysis for TSLA: Score 55 (HOLD) {"timestamp":"2025-12-01T11:40:03.388Z"}
+info: Analysis for AVGO: Score 10 (SELL) {"timestamp":"2025-12-01T11:40:03.708Z"}
+info: [SIGNAL] SELL AVGO @ 402.96 {"timestamp":"2025-12-01T11:40:03.708Z"}
+info: Analysis for PEP: Score 65 (BUY) {"timestamp":"2025-12-01T11:40:04.125Z"}
+info: Analysis for COST: Score 10 (SELL) {"timestamp":"2025-12-01T11:40:04.477Z"}
+info: [SIGNAL] SELL COST @ 913.59 {"timestamp":"2025-12-01T11:40:04.477Z"}
+info: Analysis for JPM: Score 25 (SELL) {"timestamp":"2025-12-01T11:40:04.813Z"}
+info: [SIGNAL] SELL JPM @ 313.08 {"timestamp":"2025-12-01T11:40:04.814Z"}
+info: Analysis for V: Score 10 (SELL) {"timestamp":"2025-12-01T11:40:05.136Z"}
+info: [SIGNAL] SELL V @ 334.44 {"timestamp":"2025-12-01T11:40:05.136Z"}
+info: Analysis for PG: Score 25 (SELL) {"timestamp":"2025-12-01T11:40:05.577Z"}
+info: [SIGNAL] SELL PG @ 148.16 {"timestamp":"2025-12-01T11:40:05.577Z"}
+info: Analysis for MA: Score 10 (SELL) {"timestamp":"2025-12-01T11:40:05.890Z"}
+info: [SIGNAL] SELL MA @ 550.53 {"timestamp":"2025-12-01T11:40:05.890Z"}
+info: Analysis for HD: Score 25 (SELL) {"timestamp":"2025-12-01T11:40:06.216Z"}
+info: [SIGNAL] SELL HD @ 356.92 {"timestamp":"2025-12-01T11:40:06.217Z"}
+info: Analysis for CVX: Score 25 (SELL) {"timestamp":"2025-12-01T11:40:06.554Z"}
+info: [SIGNAL] SELL CVX @ 151.13 {"timestamp":"2025-12-01T11:40:06.554Z"}
+info: Analysis for MRK: Score 50 (HOLD) {"timestamp":"2025-12-01T11:40:06.878Z"}
+info: Analysis for ABBV: Score 10 (SELL) {"timestamp":"2025-12-01T11:40:07.185Z"}
+info: [SIGNAL] SELL ABBV @ 227.7 {"timestamp":"2025-12-01T11:40:07.185Z"}
+info: Analysis for KO: Score 25 (SELL) {"timestamp":"2025-12-01T11:40:07.498Z"}
+info: [SIGNAL] SELL KO @ 73.12 {"timestamp":"2025-12-01T11:40:07.498Z"}
+info: Analysis for LLY: Score 50 (HOLD) {"timestamp":"2025-12-01T11:40:07.813Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T11:40:07.813Z"}

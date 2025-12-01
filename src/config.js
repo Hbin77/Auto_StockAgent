@@ -14,6 +14,15 @@ module.exports = {
     tickers: {
         // Load S&P 500 tickers
         sp500: require('./sp500-loader'),
-        nasdaq100: ['AAPL', 'MSFT', 'AMZN', 'NVDA', 'GOOGL', 'META', 'TSLA', 'AVGO', 'PEP', 'COST'] // Keep for reference or specific strategy
+        nasdaq100: ['AAPL', 'MSFT', 'AMZN', 'NVDA', 'GOOGL', 'META', 'TSLA', 'AVGO', 'PEP', 'COST'], // Keep for reference
+        // High Volatility & Budget Friendly (<$50) for Max Yield Strategy
+        budgetGrowth: [
+            // Tech/AI/Growth
+            'SOFI', 'PLTR', 'PATH', 'IONQ', 'HOOD', 'DKNG', 'RIVN', 'LCID', 'OPEN',
+            // Crypto/Blockchain (High Beta)
+            'MARA', 'CLSK', 'COIN',
+            // Stable/Value (Balance)
+            'F', 'T', 'PFE', 'INTC', 'BAC', 'KDP', 'NU', 'GRAB'
+        ]
     }
 };

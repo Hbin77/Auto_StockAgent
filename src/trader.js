@@ -20,73 +20,159 @@ const logger = winston.createLogger({
 });
 
 class Trader {
+    constructor() {
+        this.isTrading = false;
+    }
+
     async start() {
-        logger.info('Starting Trading Cycle...');
+        if (this.isTrading) {
+            logger.warn('Trading cycle already in progress. Skipping...');
+            return;
+        }
+        this.isTrading = true;
 
-        // 0. Get Account Balance & Holdings
-        let accountData = await kisApi.getBalance();
-        let buyingPower = accountData.buyingPower;
-        let holdings = accountData.holdings;
+        try {
+            let restartRequired = false;
 
-        logger.info(`Current Balance (USD): $${buyingPower}`);
-        logger.info(`Current Holdings: ${holdings.map(h => `${h.symbol}(h.qty)`).join(', ') || 'None'}`);
+            do {
+                restartRequired = false;
+                logger.info('Starting Trading Cycle...');
 
-        // 1. Get Tickers
-        // 1. Get Tickers (Use Set to avoid duplicates if lists overlap)
-        const allTickers = [...new Set([...config.tickers.nasdaq100, ...config.tickers.sp500])];
-        logger.info(`Total Tickers: ${allTickers.length}`);
+                // 0. Get Account Balance & Holdings
+                let accountData = await kisApi.getBalance();
+                let buyingPower = accountData.buyingPower;
+                let holdings = accountData.holdings;
 
-        // 2. Pre-filter: Check Budget
-        // If buyingPower is very low (e.g. < $10), we can't buy anything meaningful.
-        // But we might want to SELL existing holdings.
-        // So we split the list: Holdings (always check) + Affordable Candidates.
+                logger.info(`Current Balance (USD): $${buyingPower}`);
+                logger.info(`Current Holdings: ${holdings.map(h => `${h.symbol}(${h.qty})`).join(', ') || 'None'}`);
 
-        const holdingSymbols = holdings.map(h => h.symbol);
+                // 0.5 Check for Unfilled Orders (Auto Cancel > 5 mins)
+                try {
+                    const unfilledOrders = await kisApi.getUnfilledOrders();
+                    if (unfilledOrders.length > 0) {
+                        logger.info(`Found ${unfilledOrders.length} unfilled orders. Checking age...`);
+                        const now = new Date();
+                        const currentHHMMSS = Number(now.toTimeString().split(' ')[0].replace(/:/g, '')); // HHMMSS as number
 
-        // Fetch quotes for ALL tickers to filter by price
-        // Batching requests to avoid URL length limits if list is huge (500 is fine usually, but let's be safe)
-        logger.info('Fetching real-time prices for budget filtering...');
-        let affordableTickers = [];
+                        for (const order of unfilledOrders) {
+                            // Simple time check: If order time is significantly different from now
+                            // Note: This simple number subtraction works for same-hour or near-hour, but crossing hour boundary needs care.
+                            // Better: Parse to Date object.
 
-        // Split into chunks of 500 (yahoo finance might handle it, but let's try full list first or chunk it)
-        // Yahoo Finance quote array limit is often around 500-1000 chars or symbols. 
-        // Let's chunk by 50 just to be safe and robust.
-        const chunkSize = 50;
-        for (let i = 0; i < allTickers.length; i += chunkSize) {
-            const chunk = allTickers.slice(i, i + chunkSize);
-            const quotes = await dataCollector.fetchQuotes(chunk);
+                            // Parse Order Time (HHMMSS)
+                            const orderTimeStr = order.orderTimeTime; // "180500"
+                            if (orderTimeStr && orderTimeStr.length === 6) {
+                                const orderDate = new Date();
+                                orderDate.setHours(Number(orderTimeStr.substring(0, 2)));
+                                orderDate.setMinutes(Number(orderTimeStr.substring(2, 4)));
+                                orderDate.setSeconds(Number(orderTimeStr.substring(4, 6)));
 
-            for (const quote of quotes) {
-                // If we hold it, we must analyze it (to potentially sell).
-                // If we don't hold it, we only analyze if price <= buyingPower.
-                const isHeld = holdingSymbols.includes(quote.symbol);
-                const price = quote.regularMarketPrice;
+                                const diffMs = now - orderDate;
+                                const diffMins = diffMs / 1000 / 60;
 
-                if (isHeld || (price && price <= buyingPower)) {
-                    affordableTickers.push(quote.symbol);
+                                if (diffMins > 5) {
+                                    logger.info(`[AUTO CANCEL] Order ${order.orderNo} for ${order.symbol} is ${diffMins.toFixed(1)} mins old. Cancelling...`);
+                                    await kisApi.cancelOrder(order.orderNo, order.symbol, 0); // Cancel all
+                                    restartRequired = true; // Restart cycle after cancel
+                                }
+                            }
+                        }
+                    }
+                } catch (err) {
+                    logger.error(`Failed to check unfilled orders: ${err.message}`);
                 }
-            }
-            // Small delay between chunks
-            await new Promise(r => setTimeout(r, 100));
+
+                // 1. Get Tickers
+                const allTickers = [...new Set([
+                    ...config.tickers.nasdaq100,
+                    ...config.tickers.sp500,
+                    ...config.tickers.budgetGrowth // Added for Max Yield Strategy
+                ])];
+                logger.info(`Total Tickers: ${allTickers.length}`);
+
+                // 2. Pre-filter: Check Budget
+                // If buyingPower is very low (e.g. < $10), we can't buy anything meaningful.
+                // But we might want to SELL existing holdings.
+                // So we split the list: Holdings (always check) + Affordable Candidates.
+
+                const holdingSymbols = holdings.map(h => h.symbol);
+                let affordableTickers = [];
+
+                // Optimization: If balance is too low to buy meaningful stocks (e.g. < $50), 
+                // and we have holdings, ONLY monitor holdings to save API calls and time.
+                // BUT if we just sold something, buyingPower might have increased, so we need to re-check.
+                const MIN_BUY_BALANCE = 50;
+
+                if (buyingPower < MIN_BUY_BALANCE && holdingSymbols.length > 0) {
+                    logger.info(`Low Balance ($${buyingPower} < $${MIN_BUY_BALANCE}). Monitoring ${holdingSymbols.length} holdings only.`);
+                    affordableTickers = [...holdingSymbols];
+                } else {
+                    // Fetch quotes for ALL tickers to filter by price
+                    // Batching requests to avoid URL length limits if list is huge (500 is fine usually, but let's be safe)
+                    logger.info('Fetching real-time prices for budget filtering...');
+
+                    // Split into chunks of 500 (yahoo finance might handle it, but let's try full list first or chunk it)
+                    // Yahoo Finance quote array limit is often around 500-1000 chars or symbols. 
+                    // Let's chunk by 50 just to be safe and robust.
+                    const chunkSize = 50;
+                    for (let i = 0; i < allTickers.length; i += chunkSize) {
+                        const chunk = allTickers.slice(i, i + chunkSize);
+                        const quotes = await dataCollector.fetchQuotes(chunk);
+
+                        for (const quote of quotes) {
+                            // If we hold it, we must analyze it (to potentially sell).
+                            // If we don't hold it, we only analyze if price <= buyingPower.
+                            const isHeld = holdingSymbols.includes(quote.symbol);
+                            const price = quote.regularMarketPrice;
+
+                            if (isHeld || (price && price <= buyingPower)) {
+                                affordableTickers.push(quote.symbol);
+                            }
+                        }
+                        // Small delay between chunks
+                        await new Promise(resolve => setTimeout(resolve, 100));
+                    }
+                }
+
+                // Remove duplicates just in case
+                affordableTickers = [...new Set(affordableTickers)];
+                logger.info(`Affordable/Held Tickers to Analyze: ${affordableTickers.length} / ${allTickers.length}`);
+
+                // 3. Iterate and Analyze (Only Affordable/Held)
+                for (const symbol of affordableTickers) {
+                    // Update buyingPower after each trade decision to avoid overdraft in same cycle
+                    const tradeResult = await this.processSymbol(symbol, buyingPower, holdings);
+
+                    if (tradeResult) {
+                        if (tradeResult.action === 'BUY') {
+                            buyingPower -= tradeResult.cost;
+                            logger.info(`[BUY EXECUTED] Balance decreased. Restarting cycle to re-evaluate budget...`);
+                            restartRequired = true;
+                            break; // Break ticker loop to restart
+                        } else if (tradeResult.action === 'SELL') {
+                            logger.info(`[SELL EXECUTED] Balance increased. Restarting cycle to re-evaluate budget...`);
+                            restartRequired = true;
+                            break; // Break ticker loop to restart
+                        }
+                    }
+
+                    // Throttling: Wait 300ms between requests to avoid rate limits
+                    await new Promise(resolve => setTimeout(resolve, 300));
+                }
+
+                if (restartRequired) {
+                    logger.info('Restarting Trading Cycle due to executed trade...');
+                    await new Promise(resolve => setTimeout(resolve, 2000)); // Wait a bit for API to update
+                }
+
+            } while (restartRequired);
+
+            logger.info('Trading Cycle Completed.');
+        } catch (error) {
+            logger.error(`Trading Cycle Error: ${error.message}`);
+        } finally {
+            this.isTrading = false;
         }
-
-        // Remove duplicates just in case
-        affordableTickers = [...new Set(affordableTickers)];
-        logger.info(`Affordable/Held Tickers to Analyze: ${affordableTickers.length} / ${allTickers.length}`);
-
-        // 3. Iterate and Analyze (Only Affordable/Held)
-        for (const symbol of affordableTickers) {
-            // Update buyingPower after each trade decision to avoid overdraft in same cycle
-            const tradeResult = await this.processSymbol(symbol, buyingPower, holdings);
-            if (tradeResult && tradeResult.action === 'BUY') {
-                buyingPower -= tradeResult.cost;
-            }
-
-            // Throttling: Wait 300ms between requests to avoid rate limits
-            await new Promise(resolve => setTimeout(resolve, 300));
-        }
-
-        logger.info('Trading Cycle Completed.');
     }
 
     async processSymbol(symbol, buyingPower, holdings) {
@@ -175,7 +261,24 @@ class Trader {
         // SELL Logic
         else if (screeningResult.recommendation === 'SELL') {
             if (holding && holding.qty > 0) {
-                logger.info(`[SIGNAL] SELL ${symbol} @ ${currentPrice} (Score: ${screeningResult.totalScore}) on ${exchange}`);
+                // Cautious Sell Logic:
+                // 1. Stop Loss: If loss is > 3%, SELL immediately to prevent disaster.
+                // 2. Take Profit: If profitable (> 0.5% to cover fees), SELL to lock in gains.
+                // 3. Hold on Small Loss/Breakeven: If profit is between -3% and +0.5%, HOLD.
+
+                const STOP_LOSS_LIMIT = -3.0; // -3%
+                const MIN_NET_PROFIT = 0.5; // 0.25% Sell Fee + Buffer
+
+                // If it's a "Take Profit" signal (SELL recommendation), make sure we actually make money after fees.
+                // If profit is less than MIN_NET_PROFIT (e.g. 0.1%), we might lose money on fees.
+                // UNLESS it's a Stop Loss situation (profit < -3%).
+
+                if (holding.profitRate > STOP_LOSS_LIMIT && holding.profitRate < MIN_NET_PROFIT) {
+                    logger.info(`[HOLD] Sell Signal for ${symbol} but Profit (${holding.profitRate}%) is too low to cover fees (> ${MIN_NET_PROFIT}%). Waiting...`);
+                    return null;
+                }
+
+                logger.info(`[SIGNAL] SELL ${symbol} @ ${currentPrice} (Score: ${screeningResult.totalScore}, Profit: ${holding.profitRate}%) on ${exchange}`);
                 const orderResult = await kisApi.placeOrder(symbol, 'SELL', holding.qty, currentPrice, exchange);
 
                 if (orderResult) {

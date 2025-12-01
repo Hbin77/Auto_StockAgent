@@ -297,8 +297,9 @@ class KisApi {
                 symbol: item.pdno,
                 qty: Number(item.nccs_qty), // Unfilled Quantity
                 price: Number(item.ord_unpr),
-                orderTime: item.ord_dt, // Order Date (YYYYMMDD) - Time might be in another field or need parsing
-                orderTimeTime: item.ord_tmd // Order Time (HHMMSS)
+                orderTime: item.ord_dt, // Order Date (YYYYMMDD)
+                orderTimeTime: item.ord_tmd, // Order Time (HHMMSS)
+                exchange: item.ovrs_excg_cd // Capture Exchange Code (NYSE, NASD, etc.)
             }));
         } catch (error) {
             logger.error(`Error fetching unfilled orders: ${error.message}`);
@@ -311,17 +312,25 @@ class KisApi {
      * @param {string} orderNo - Original Order Number (ODNO)
      * @param {string} symbol - Stock Symbol
      * @param {number} qty - Quantity to cancel (0 for all)
+     * @param {string} exchange - Exchange Code (NASD, NYSE, etc.)
      */
-    async cancelOrder(orderNo, symbol, qty = 0) {
+    async cancelOrder(orderNo, symbol, qty = 0, exchange = 'NASD') {
         try {
             // TR ID: TTTT1004U (Real) / VTTT1004U (Paper) - Overseas Stock Cancel
             const trId = config.trading.mode === 'REAL' ? 'TTTT1004U' : 'VTTT1004U';
             const headers = await this.getHeaders(trId);
 
+            // Map Exchange Code if necessary (KIS uses NASD, NYSE, AMEX)
+            // Yahoo might give 'NAS', 'NYS'. KIS Unfilled gives 'NASD', 'NYSE'.
+            // Ensure we use KIS compatible codes.
+            let kisExchange = exchange;
+            if (exchange === 'NAS') kisExchange = 'NASD';
+            if (exchange === 'NYS') kisExchange = 'NYSE';
+
             const data = {
                 CANO: this.accountNo,
                 ACNT_PRDT_CD: this.accountCode,
-                OVRS_EXCG_CD: 'NASD', // Default to NASD
+                OVRS_EXCG_CD: kisExchange, // Use dynamic exchange
                 PDNO: symbol,
                 ORGN_ODNO: orderNo,
                 RVSE_CNCL_DVSN_CD: '02', // 01: Modify, 02: Cancel

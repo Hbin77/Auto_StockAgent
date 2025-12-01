@@ -26038,3 +26038,331 @@ info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-
 info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:43:47.878Z"}
 info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:43:48.250Z"}
 info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:43:48.551Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:43:50.553Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:43:50.765Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:43:50.765Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:43:50.851Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.3 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:50.851Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 46.7 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:50.947Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 43.4 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:51.027Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 27.7 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:51.107Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:43:51.211Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:43:51.211Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:43:51.211Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:43:51.579Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:43:51.881Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:43:53.881Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:43:54.058Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:43:54.058Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:43:54.142Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.3 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:54.142Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 46.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:54.233Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 43.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:54.308Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 27.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:54.385Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:43:54.488Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:43:54.488Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:43:54.488Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:43:54.865Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:43:55.167Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:43:57.168Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:43:57.383Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:43:57.383Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:43:57.463Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.4 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:57.463Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 46.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:57.587Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 43.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:57.687Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 27.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:43:57.840Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:43:57.951Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:43:57.951Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:43:57.951Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:43:58.339Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:43:58.640Z"}
+warn: Trading cycle already in progress. Skipping... {"timestamp":"2025-12-01T18:44:00.492Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:00.641Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:00.916Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:00.916Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:00.985Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:00.986Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 46.9 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:01.063Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 43.6 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:01.150Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 27.9 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:01.237Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:01.310Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:01.310Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:01.310Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:01.608Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:01.909Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:03.911Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:04.106Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:04.106Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:04.168Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:04.169Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.0 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:04.232Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 43.6 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:04.306Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 27.9 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:04.383Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:04.464Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:04.465Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:04.465Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:04.856Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:05.157Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:07.158Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:07.358Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:07.358Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:07.435Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.6 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:07.436Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.0 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:07.542Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 43.7 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:07.576Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.0 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:07.744Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:07.874Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:07.874Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:07.874Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:08.252Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:08.552Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:10.555Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:10.775Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:10.775Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:10.885Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.6 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:10.885Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.1 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:11.000Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 43.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:11.057Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.0 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:11.131Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:11.206Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:11.206Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:11.206Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:11.579Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:11.881Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:13.882Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:14.051Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:14.051Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:14.103Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.7 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:14.103Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.1 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:14.162Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 43.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:14.268Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.1 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:14.341Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:14.420Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:14.420Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:14.420Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:14.794Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:15.096Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:17.097Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:17.318Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:17.318Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:17.423Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.7 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:17.423Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.2 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:17.577Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 43.9 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:17.918Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.2 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:18.013Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:18.132Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:18.133Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:18.133Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:18.512Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:18.813Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:20.816Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:21.065Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:21.065Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:21.150Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:21.150Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.2 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:21.239Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 43.9 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:21.300Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.2 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:21.352Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:21.414Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:21.414Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:21.414Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:21.785Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:22.087Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:24.088Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:24.304Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:24.304Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:24.350Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:24.351Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.3 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:24.477Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.0 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:24.582Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.3 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:24.658Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:24.734Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:24.734Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:24.734Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:25.118Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:25.420Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:27.422Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:27.649Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:27.649Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:27.753Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 70.9 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:27.754Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.3 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:27.868Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.0 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:27.987Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.3 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:28.078Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:28.209Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:28.209Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:28.209Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:28.500Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:28.800Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:30.802Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:31.042Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:31.043Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:31.087Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 71.0 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:31.087Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.4 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:31.153Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.1 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:31.225Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.4 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:31.292Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:31.366Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:31.366Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:31.366Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:31.656Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:31.958Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:33.959Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:34.275Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:34.275Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:34.337Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 71.0 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:34.338Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:34.418Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.1 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:34.533Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.4 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:34.663Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:34.786Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:34.786Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:34.786Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:35.078Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:35.380Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:37.382Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:37.615Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:37.615Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:37.668Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 71.1 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:37.668Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:37.768Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.2 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:37.848Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:38.015Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:38.104Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:38.105Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:38.105Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:38.408Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:38.708Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:40.710Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:40.912Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:40.912Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:40.988Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 71.1 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:40.989Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.6 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:41.092Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.3 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:41.177Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:41.254Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:41.362Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:41.362Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:41.362Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:41.665Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:41.966Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:43.967Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:44.215Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:44.215Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:44.284Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 71.2 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:44.284Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.6 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:44.401Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.3 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:44.429Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.6 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:44.586Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:44.659Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:44.659Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:44.659Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:44.952Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:45.254Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:47.255Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:47.502Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:47.502Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:47.603Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 71.2 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:47.603Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.7 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:47.775Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.4 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:47.876Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.6 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:47.970Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:48.116Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:48.116Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:48.116Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:48.408Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:48.710Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:50.712Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:50.990Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:50.990Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:51.074Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 71.3 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:51.074Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.7 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:51.263Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.4 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:51.360Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.7 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:51.462Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:51.585Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:51.585Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:51.586Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:51.878Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:52.179Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:54.181Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:54.383Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:54.383Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:44:54.478Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 71.3 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:54.478Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:54.627Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:54.717Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:44:54.832Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:54.899Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:54.899Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:54.899Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:55.191Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:44:55.493Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:44:57.495Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:44:57.658Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:44:57.658Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:44:57.672Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:44:57.672Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:44:57.672Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:44:58.068Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:44:58.368Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:45:00.557Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:45:00.884Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:45:00.885Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:45:01.032Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 71.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:45:01.032Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 47.9 mins old. Cancelling... {"timestamp":"2025-12-01T18:45:01.198Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM is 44.6 mins old. Cancelling... {"timestamp":"2025-12-01T18:45:01.278Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR is 28.9 mins old. Cancelling... {"timestamp":"2025-12-01T18:45:01.357Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:45:01.481Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:45:01.482Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:45:01.482Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:01.890Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:45:02.191Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:45:04.193Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:45:04.508Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:45:04.508Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:45:04.583Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO is 71.5 mins old. Cancelling... {"timestamp":"2025-12-01T18:45:04.584Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM is 48.0 mins old. Cancelling... {"timestamp":"2025-12-01T18:45:04.688Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:45:11.178Z"}
+info: Current Balance (USD): $6.37 {"timestamp":"2025-12-01T18:45:11.321Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:45:11.322Z"}
+info: Found 4 unfilled orders. Checking age... {"timestamp":"2025-12-01T18:45:11.357Z"}
+info: [AUTO CANCEL] Order 0030268861 for KO (NYSE) is 71.6 mins old. Cancelling... {"timestamp":"2025-12-01T18:45:11.357Z"}
+info: [AUTO CANCEL] Order 0030273163 for MMM (NYSE) is 48.1 mins old. Cancelling... {"timestamp":"2025-12-01T18:45:11.417Z"}
+info: [AUTO CANCEL] Order 0030273720 for KIM (NYSE) is 44.8 mins old. Cancelling... {"timestamp":"2025-12-01T18:45:11.480Z"}
+info: [AUTO CANCEL] Order 0030276145 for AMCR (NYSE) is 29.0 mins old. Cancelling... {"timestamp":"2025-12-01T18:45:11.570Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:45:11.641Z"}
+info: Low Balance ($6.37 < $50). Monitoring 1 holdings only. {"timestamp":"2025-12-01T18:45:11.641Z"}
+info: Affordable/Held Tickers to Analyze: 1 / 510 {"timestamp":"2025-12-01T18:45:11.641Z"}
+info: Analysis for APA: Score 50 (HOLD) [Tech:10 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:12.976Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:45:13.278Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:45:15.280Z"}
+info: Current Balance (USD): $266.16 {"timestamp":"2025-12-01T18:45:15.554Z"}
+info: Current Holdings: APA(1) {"timestamp":"2025-12-01T18:45:15.554Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:45:15.678Z"}
+info: Fetching real-time prices for budget filtering... {"timestamp":"2025-12-01T18:45:15.678Z"}
+info: Affordable/Held Tickers to Analyze: 391 / 510 {"timestamp":"2025-12-01T18:45:19.814Z"}
+info: Analysis for AMZN: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:20.131Z"}
+info: Analysis for NVDA: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:20.750Z"}
+info: Analysis for PEP: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:21.351Z"}
+info: Analysis for MMM: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:21.962Z"}
+info: Analysis for AOS: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:22.586Z"}
+info: Analysis for ABT: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:23.192Z"}
+info: Analysis for ABBV: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:23.800Z"}
+info: Analysis for ACN: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:24.419Z"}
+info: Analysis for AMD: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:25.021Z"}
+info: Analysis for AES: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:25.624Z"}
+info: Analysis for AFL: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:26.235Z"}
+info: Analysis for A: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:26.836Z"}
+info: Analysis for APD: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:27.434Z"}
+info: Analysis for ABNB: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:28.043Z"}
+info: Analysis for AKAM: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:28.642Z"}
+info: Analysis for ALB: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:29.249Z"}
+info: Analysis for ARE: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:29.851Z"}
+info: Analysis for ALGN: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:30.456Z"}
+info: Analysis for ALLE: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:31.060Z"}
+info: Analysis for LNT: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:31.667Z"}
+info: Analysis for ALL: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:32.273Z"}

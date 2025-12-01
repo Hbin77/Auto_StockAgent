@@ -71,8 +71,8 @@ class Trader {
                                 const diffMins = diffMs / 1000 / 60;
 
                                 if (diffMins > 5) {
-                                    logger.info(`[AUTO CANCEL] Order ${order.orderNo} for ${order.symbol} is ${diffMins.toFixed(1)} mins old. Cancelling...`);
-                                    await kisApi.cancelOrder(order.orderNo, order.symbol, 0); // Cancel all
+                                    logger.info(`[AUTO CANCEL] Order ${order.orderNo} for ${order.symbol} (${order.exchange}) is ${diffMins.toFixed(1)} mins old. Cancelling...`);
+                                    await kisApi.cancelOrder(order.orderNo, order.symbol, 0, order.exchange); // Pass exchange
                                     restartRequired = true; // Restart cycle after cancel
                                 }
                             }

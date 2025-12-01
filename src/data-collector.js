@@ -39,7 +39,14 @@ class DataCollector {
             }
             return [];
         } catch (error) {
-            logger.error(`Error fetching data for ${symbol}: ${error.message}`);
+            if (error.message && (error.message.includes('validation') || error.message.includes('Expected'))) {
+                // Suppress verbose validation errors from yahoo-finance2
+                logger.warn(`Data validation error for ${symbol}: ${error.message.split('\n')[0]}`);
+            } else if (error.message && error.message.includes('Not Found')) {
+                logger.error(`Error fetching data for ${symbol}: No data found, symbol may be delisted`);
+            } else {
+                logger.error(`Error fetching data for ${symbol}: ${error.message}`);
+            }
             return [];
         }
     }
@@ -55,6 +62,22 @@ class DataCollector {
         } catch (error) {
             logger.error(`Error fetching quote for ${symbol}: ${error.message}`);
             return null;
+        }
+    }
+
+    /**
+     * Fetch quotes for multiple symbols (Bulk)
+     * @param {string[]} symbols 
+     */
+    async fetchQuotes(symbols) {
+        try {
+            // yahoo-finance2 quote accepts array
+            // Disable validation to prevent one bad symbol (e.g. BRK.B) from failing the whole batch
+            const quotes = await yahooFinance.quote(symbols, {}, { validateResult: false });
+            return quotes;
+        } catch (error) {
+            logger.error(`Error fetching bulk quotes: ${error.message}`);
+            return [];
         }
     }
 }

@@ -40,14 +40,25 @@ class StockTools {
 
         let signal = 'NEUTRAL';
 
-        // Golden Cross: MA20 crosses above MA50 (simplified check: current state)
-        // Buy: Price > MA20 > MA50 OR RSI < 30
-        if ((currentPrice > currentMA20 && currentMA20 > currentMA50) || currentRSI < 30) {
+        // Golden Cross: MA20 crosses above MA50
+        // Buy: Price > MA20 > MA50 (Trend Following)
+        if (currentPrice > currentMA20 && currentMA20 > currentMA50) {
             signal = 'BUY';
         }
-        // Sell: Price < MA20 < MA50 OR RSI > 70
-        else if ((currentPrice < currentMA20 && currentMA20 < currentMA50) || currentRSI > 70) {
+        // RSI Oversold (Potential Reversal) - Mark as BUY only if not in deep crash (simple check)
+        // For safety, let's just mark it as NEUTRAL or OVERSOLD in basic tools, 
+        // and let the advanced screener decide. But to keep it simple for this module:
+        else if (currentRSI < 30) {
+            signal = 'BUY_CANDIDATE'; // Changed from BUY to candidate
+        }
+
+        // Sell: Price < MA20 < MA50 (Downtrend)
+        else if (currentPrice < currentMA20 && currentMA20 < currentMA50) {
             signal = 'SELL';
+        }
+        // RSI Overbought
+        else if (currentRSI > 70) {
+            signal = 'SELL_CANDIDATE';
         }
 
         return {

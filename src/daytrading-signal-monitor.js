@@ -62,28 +62,46 @@ class DayTradingMonitor {
         const signals = [];
 
         // MACD Analysis
-        if (indicators.macd && indicators.macd.histogram > 0.001) {
-            score += 10;
-            signals.push('MACD_BULLISH');
+        // Histogram > 0 means MACD > Signal
+        if (indicators.macd && indicators.macd.histogram > 0) {
+            if (indicators.macd.MACD > 0) {
+                // Strong Bullish: MACD above zero and rising
+                score += 10;
+                signals.push('MACD_BULLISH');
+            } else {
+                // Reversal Candidate: MACD below zero but crossing up
+                // Weaker signal, maybe just a bounce in downtrend
+                score += 5;
+                signals.push('MACD_REVERSAL');
+            }
+        } else if (indicators.macd && indicators.macd.histogram < 0) {
+            score -= 10;
+            signals.push('MACD_BEARISH');
         }
 
         // Bollinger Analysis
         if (indicators.bb) {
             if (currentPrice > indicators.bb.upper) {
-                score -= 20; // Overbought warning
+                score -= 15; // Overbought warning
                 signals.push('BB_OVERBOUGHT');
             } else if (currentPrice < indicators.bb.lower) {
-                score += 20; // Oversold opportunity
+                // Oversold opportunity - but risky in crash.
+                // Add score only if RSI is also low but turning up? 
+                // For now, keep it but reduce weight slightly or keep as is.
+                score += 15;
                 signals.push('BB_OVERSOLD');
             }
         }
 
         // RSI Analysis
         if (indicators.rsi < 30) {
-            score += 15;
+            // Oversold: Potential bounce, but dangerous.
+            // Only add positive score if we are NOT in a massive downtrend (MA20 < MA50)?
+            // Or just treat as a "setup" that needs confirmation.
+            score += 10;
             signals.push('RSI_OVERSOLD');
         } else if (indicators.rsi > 70) {
-            score -= 15;
+            score -= 10;
             signals.push('RSI_OVERBOUGHT');
         }
 

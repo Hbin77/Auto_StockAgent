@@ -26366,3 +26366,1106 @@ info: Analysis for ALGN: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"times
 info: Analysis for ALLE: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:31.060Z"}
 info: Analysis for LNT: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:31.667Z"}
 info: Analysis for ALL: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:32.273Z"}
+info: Analysis for MO: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:32.904Z"}
+info: Analysis for AMCR: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:33.512Z"}
+info: Analysis for AEE: Score 50 (HOLD) [Tech:20 Mom:20 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:34.359Z"}
+info: Analysis for AAL: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:34.967Z"}
+info: Analysis for AEP: Score 35 (HOLD) [Tech:20 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:35.791Z"}
+info: Analysis for AIG: Score 20 (SELL) [Tech:10 Mom:0 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:36.390Z"}
+info: Analysis for AMT: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:36.989Z"}
+info: Analysis for AWK: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:37.590Z"}
+info: Analysis for AME: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:38.187Z"}
+info: Analysis for APH: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:38.790Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:39.400Z"}
+info: [HOLD] Sell Signal for APA but Profit (0.33%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:45:39.400Z"}
+info: Analysis for AMAT: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:40.007Z"}
+info: Analysis for APTV: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:40.620Z"}
+info: Analysis for ACGL: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:41.326Z"}
+info: Analysis for ADM: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:41.938Z"}
+info: Analysis for ANET: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:42.548Z"}
+info: Analysis for AJG: Score -5 (SELL) [Tech:10 Mom:-15 Fund:0 News:0] {"timestamp":"2025-12-01T18:45:43.152Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T18:45:44.013Z"}
+info: [SIGNAL] BUY AIZ @ 227.9225 (Score: 70) on NYSE {"timestamp":"2025-12-01T18:45:44.013Z"}
+info: [BUY EXECUTED] Balance decreased. Restarting cycle to re-evaluate budget... {"timestamp":"2025-12-01T18:45:44.208Z"}
+info: Restarting Trading Cycle due to executed trade... {"timestamp":"2025-12-01T18:45:44.208Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:45:46.210Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:45:46.424Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:45:46.424Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:45:46.487Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:45:46.487Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:45:46.487Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T18:45:46.872Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:45:47.477Z"}
+info: [HOLD] Sell Signal for APA but Profit (0.29%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:45:47.477Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:45:47.778Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:46:00.260Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:46:00.568Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:46:00.568Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:46:00.588Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:46:00.588Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:46:00.588Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T18:46:01.264Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:46:01.887Z"}
+info: [HOLD] Sell Signal for APA but Profit (0.27%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:46:01.887Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:46:02.187Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:47:00.327Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:47:00.485Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:47:00.485Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:47:00.554Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:47:00.554Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:47:00.554Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T18:47:01.186Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:47:02.033Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:47:02.334Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:48:00.399Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:48:00.580Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:48:00.581Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:48:00.656Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:48:00.657Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:48:00.657Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:48:01.115Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.08%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:48:01.115Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:48:01.795Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:48:02.096Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:49:00.472Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:49:00.729Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:49:00.729Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:49:00.817Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:49:00.817Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:49:00.818Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:49:01.275Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.08%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:49:01.275Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:49:02.074Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:49:02.374Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:50:00.537Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:50:00.754Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:50:00.754Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:50:00.821Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:50:00.822Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:50:00.822Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:50:01.295Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.08%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:50:01.296Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:50:02.145Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:50:02.446Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:51:00.610Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:51:00.854Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:51:00.854Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:51:00.936Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:51:00.937Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:51:00.937Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:51:01.374Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (0.03%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:51:01.375Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:51:01.961Z"}
+info: [HOLD] Sell Signal for APA but Profit (0.35%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:51:01.962Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:51:02.262Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:52:00.680Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:52:00.925Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:52:00.925Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:52:01.044Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:52:01.044Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:52:01.044Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:52:01.500Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (0.03%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:52:01.501Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:52:02.315Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:52:02.616Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:53:00.746Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:53:00.982Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:53:00.982Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:53:01.042Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:53:01.042Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:53:01.043Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:53:01.522Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (0.03%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:53:01.523Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:53:02.324Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:53:02.626Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:54:00.810Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:54:01.062Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:54:01.062Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:54:01.108Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:54:01.108Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:54:01.108Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T18:54:01.596Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:54:02.424Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:54:02.726Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:55:00.874Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:55:01.102Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:55:01.102Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:55:01.161Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:55:01.162Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:55:01.162Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T18:55:01.725Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:55:02.601Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:55:02.902Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:56:00.943Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:56:01.086Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:56:01.086Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:56:01.159Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:56:01.159Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:56:01.159Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T18:56:01.621Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T18:56:02.217Z"}
+info: [HOLD] Sell Signal for APA but Profit (0.1%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T18:56:02.217Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:56:02.518Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:57:00.017Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:57:00.270Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:57:00.270Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:57:00.380Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:57:00.380Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:57:00.381Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T18:57:00.857Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:57:01.539Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:57:01.839Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:58:00.085Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:58:00.411Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:58:00.411Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:58:00.512Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:58:00.512Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:58:00.512Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T18:58:00.982Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:58:01.778Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:58:02.079Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T18:59:00.156Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T18:59:00.394Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T18:59:00.394Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T18:59:00.496Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T18:59:00.496Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T18:59:00.496Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T18:59:00.945Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T18:59:01.831Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T18:59:02.133Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:00:00.259Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:00:00.428Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:00:00.428Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:00:00.442Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:00:00.443Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:00:00.443Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T19:00:00.927Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T19:00:01.612Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:00:01.913Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:01:00.376Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:01:00.607Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:01:00.608Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:01:00.623Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:01:00.623Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:01:00.623Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:01:01.100Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.13%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:01:01.101Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:01:01.710Z"}
+info: [HOLD] Sell Signal for APA but Profit (0.02%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:01:01.710Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:01:02.013Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:02:00.487Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:02:00.709Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:02:00.709Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:02:00.766Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:02:00.766Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:02:00.766Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:02:01.222Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.2%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:02:01.222Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T19:02:02.007Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:02:02.309Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:03:00.599Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:03:00.849Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:03:00.849Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:03:00.905Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:03:00.905Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:03:00.905Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:03:01.356Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.18%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:03:01.356Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T19:03:02.037Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:03:02.340Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:04:00.716Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:04:01.004Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:04:01.004Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:04:01.069Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:04:01.069Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:04:01.069Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:04:01.508Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.18%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:04:01.508Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T19:04:02.289Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:04:02.591Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:05:00.838Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:05:01.162Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:05:01.162Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:05:01.276Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:05:01.276Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:05:01.276Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:05:01.827Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.18%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:05:01.827Z"}
+info: Analysis for APA: Score 60 (BUY) [Tech:20 Mom:30 Fund:10 News:0] {"timestamp":"2025-12-01T19:05:02.797Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:05:03.100Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:08:00.256Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:08:00.499Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:08:00.499Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:08:00.563Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:08:00.563Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:08:00.563Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:08:01.042Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.18%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:08:01.042Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:08:01.652Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.14%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:08:01.652Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:08:01.954Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:09:00.527Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:09:00.757Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:09:00.757Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:09:00.820Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:09:00.820Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:09:00.820Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:09:01.255Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.18%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:09:01.255Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:09:01.842Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.2%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:09:01.842Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:09:02.145Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:16:00.191Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:16:00.449Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:16:00.450Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:16:00.526Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:16:00.527Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:16:00.527Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:16:01.022Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.24%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:16:01.022Z"}
+warn: Trading cycle already in progress. Skipping... {"timestamp":"2025-12-01T19:32:00.331Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:32:11.703Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:33:00.441Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:33:00.715Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:33:00.715Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:33:00.860Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:33:00.861Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:33:00.861Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:33:01.339Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.66%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:33:01.339Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:33:01.963Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.64%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:33:01.963Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:33:02.264Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:34:00.555Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:34:00.796Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:34:00.796Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:34:00.877Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:34:00.877Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:34:00.877Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:34:01.326Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.66%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:34:01.326Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:34:01.920Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.7%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:34:01.921Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:34:02.223Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:35:00.671Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:35:00.843Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:35:00.844Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:35:00.936Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:35:00.937Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:35:00.937Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:35:01.373Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.66%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:35:01.374Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:35:01.968Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.62%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:35:01.968Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:35:02.270Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:36:00.791Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:36:00.964Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:36:00.964Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:36:01.008Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:36:01.008Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:36:01.008Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:36:01.454Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.59%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:36:01.454Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:36:02.048Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.57%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:36:02.048Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:36:02.350Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:37:00.910Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:37:01.196Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:37:01.197Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:37:01.282Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:37:01.283Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:37:01.283Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:37:01.717Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.59%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:37:01.717Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:37:02.317Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:37:02.317Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:37:02.619Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:38:00.019Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:38:00.177Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:38:00.177Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:38:00.265Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:38:00.265Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:38:00.266Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:38:00.728Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.55%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:38:00.729Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:38:01.342Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.55%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:38:01.343Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:38:01.643Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:39:00.138Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:39:00.449Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:39:00.449Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:39:00.514Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:39:00.514Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:39:00.514Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:39:01.093Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.61%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:39:01.094Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:39:01.696Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.57%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:39:01.696Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:39:01.999Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:40:00.257Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:40:00.600Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:40:00.600Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:40:00.733Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:40:00.733Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:40:00.734Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:40:01.215Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:40:01.215Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:40:01.937Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.49%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:40:01.937Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:40:02.239Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:41:00.368Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:41:00.609Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:41:00.610Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:41:00.657Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:41:00.657Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:41:00.658Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:41:01.165Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:41:01.165Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:41:01.798Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.45%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:41:01.798Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:41:02.100Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:42:00.474Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:42:00.730Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:42:00.730Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:42:00.807Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:42:00.808Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:42:00.808Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:42:01.295Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:42:01.295Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:42:01.917Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.53%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:42:01.917Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:42:02.217Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:43:00.598Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:43:00.848Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:43:00.848Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:43:00.965Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:43:00.966Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:43:00.966Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:43:01.416Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:43:01.416Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:43:02.007Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.59%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:43:02.007Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:43:02.310Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:44:00.710Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:44:00.936Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:44:00.937Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:44:00.988Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:44:00.988Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:44:00.988Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:44:01.434Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:44:01.434Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:44:02.050Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.62%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:44:02.051Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:44:02.353Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:45:00.827Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:45:01.032Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:45:01.032Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:45:01.108Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:45:01.108Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:45:01.108Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:45:01.584Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:45:01.584Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:45:02.190Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.7%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:45:02.190Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:45:02.490Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:46:00.945Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:46:01.161Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:46:01.161Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:46:01.243Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:46:01.243Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:46:01.243Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:46:01.707Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:46:01.707Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:46:02.311Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.68%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:46:02.312Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:46:02.614Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:47:00.060Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:47:00.273Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:47:00.274Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:47:00.339Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:47:00.339Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:47:00.339Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:47:00.908Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:47:00.908Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:47:01.518Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.68%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:47:01.518Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:47:01.820Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:48:00.176Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:48:00.441Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:48:00.441Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:48:00.540Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:48:00.540Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:48:00.540Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:48:00.979Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:48:00.979Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:48:01.572Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.66%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:48:01.572Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:48:01.874Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:49:00.289Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:49:00.503Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:49:00.503Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:49:00.604Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:49:00.604Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:49:00.604Z"}
+info: Analysis for AIZ: Score 25 (SELL) [Tech:10 Mom:5 Fund:10 News:0] {"timestamp":"2025-12-01T19:49:01.049Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:49:01.050Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:49:01.643Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.64%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:49:01.643Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:49:01.943Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:50:00.404Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:50:00.605Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:50:00.605Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:50:00.679Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:50:00.679Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:50:00.679Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:50:01.140Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.55%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:50:01.140Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:50:01.745Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.64%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:50:01.745Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:50:02.045Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:51:00.523Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:51:00.757Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:51:00.757Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:51:00.879Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:51:00.879Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:51:00.879Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:51:01.355Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.55%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:51:01.356Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:51:01.969Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.64%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:51:01.969Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:51:02.272Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:52:00.642Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:52:00.941Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:52:00.941Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:52:01.018Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:52:01.018Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:52:01.018Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:52:01.601Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.55%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:52:01.601Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:52:02.219Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.72%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:52:02.219Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:52:02.521Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:53:00.764Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:53:00.983Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:53:00.984Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:53:01.069Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:53:01.069Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:53:01.069Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T19:53:01.756Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:53:02.341Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.68%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:53:02.341Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:53:02.643Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:54:00.878Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:54:01.109Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:54:01.109Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:54:01.152Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:54:01.153Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:54:01.153Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T19:54:01.830Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:54:02.441Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.64%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:54:02.442Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:54:02.744Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:55:00.993Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:55:01.162Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:55:01.162Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:55:01.216Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:55:01.217Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:55:01.217Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T19:55:01.987Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:55:02.591Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.7%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:55:02.592Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:55:02.892Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:56:00.106Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:56:00.283Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:56:00.284Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:56:00.396Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:56:00.397Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:56:00.397Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T19:56:01.086Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:56:01.691Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.72%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:56:01.691Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:56:01.993Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:57:00.219Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:57:00.499Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:57:00.499Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:57:00.606Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:57:00.606Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:57:00.606Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T19:57:01.253Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:57:01.860Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.68%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:57:01.860Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:57:02.162Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:58:00.343Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:58:00.659Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:58:00.659Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:58:00.741Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:58:00.741Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:58:00.741Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T19:58:01.402Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:58:02.114Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.68%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:58:02.114Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:58:02.417Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T19:59:00.451Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T19:59:00.607Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T19:59:00.607Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T19:59:00.653Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T19:59:00.653Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T19:59:00.654Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T19:59:01.411Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T19:59:02.019Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.66%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T19:59:02.019Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T19:59:02.320Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:00:00.568Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:00:00.792Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:00:00.792Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:00:00.916Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:00:00.916Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:00:00.917Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T20:00:01.592Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:00:02.223Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.62%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:00:02.223Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:00:02.523Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:01:00.677Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:01:00.987Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:01:00.987Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:01:01.048Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:01:01.049Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:01:01.049Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T20:01:01.714Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:01:02.329Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.61%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:01:02.329Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:01:02.632Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:02:00.789Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:02:01.050Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:02:01.050Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:02:01.101Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:02:01.101Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:02:01.101Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T20:02:01.762Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:02:02.367Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.57%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:02:02.367Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:02:02.669Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:03:00.904Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:03:01.136Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:03:01.136Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:03:01.197Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:03:01.197Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:03:01.197Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T20:03:01.921Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:03:02.524Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.61%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:03:02.524Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:03:02.826Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:04:00.015Z"}
+info: Current Balance (USD): $0 {"timestamp":"2025-12-01T20:04:00.158Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:04:00.158Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:04:00.280Z"}
+info: Low Balance ($0 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:04:00.280Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:04:00.281Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:04:00.767Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.61%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:04:00.768Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:04:01.378Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.59%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:04:01.378Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:04:01.681Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:05:00.110Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:05:00.420Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:05:00.420Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:05:00.509Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:05:00.509Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:05:00.509Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T20:05:01.047Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:05:01.641Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.53%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:05:01.641Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:05:01.944Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:06:00.225Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:06:00.460Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:06:00.461Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:06:00.505Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:06:00.505Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:06:00.505Z"}
+info: Analysis for AIZ: Score 45 (HOLD) [Tech:20 Mom:5 Fund:10 News:10] {"timestamp":"2025-12-01T20:06:01.146Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:06:01.732Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.47%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:06:01.733Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:06:02.035Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:07:00.343Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:07:00.595Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:07:00.595Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:07:00.608Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:07:00.608Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:07:00.608Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:07:01.071Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.48%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:07:01.072Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:07:01.668Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.49%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:07:01.668Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:07:01.971Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:08:00.457Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:08:00.706Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:08:00.706Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:08:00.777Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:08:00.777Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:08:00.777Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:08:01.238Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:08:01.937Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.49%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:08:01.938Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:08:02.240Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:09:00.573Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:09:00.807Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:09:00.807Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:09:00.862Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:09:00.862Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:09:00.862Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:09:01.322Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:09:02.031Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.51%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:09:02.032Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:09:02.334Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:10:00.681Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:10:00.908Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:10:00.908Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:10:00.965Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:10:00.965Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:10:00.966Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:10:01.429Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:10:02.042Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.47%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:10:02.042Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:10:02.344Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:11:00.792Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:11:01.080Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:11:01.080Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:11:01.145Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:11:01.145Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:11:01.145Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:11:01.701Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:11:02.317Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.41%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:11:02.318Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:11:02.620Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:12:00.904Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:12:01.115Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:12:01.115Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:12:01.165Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:12:01.165Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:12:01.166Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:12:01.725Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:12:02.323Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.49%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:12:02.323Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:12:02.626Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:13:00.018Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:13:00.229Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:13:00.229Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:13:00.291Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:13:00.292Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:13:00.292Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:13:00.746Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.29%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:13:00.747Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:13:01.450Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.49%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:13:01.450Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:13:01.753Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:14:00.138Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:14:00.363Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:14:00.363Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:14:00.458Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:14:00.458Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:14:00.458Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:14:00.934Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:14:01.535Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.59%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:14:01.536Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:14:01.838Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:15:00.251Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:15:00.490Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:15:00.490Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:15:00.554Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:15:00.554Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:15:00.555Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:15:01.113Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:15:01.713Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.59%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:15:01.713Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:15:02.015Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:16:00.367Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:16:00.623Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:16:00.623Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:16:00.704Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:16:00.704Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:16:00.705Z"}
+info: Analysis for AIZ: Score 20 (SELL) [Tech:10 Mom:0 Fund:10 News:0] {"timestamp":"2025-12-01T20:16:01.188Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.29%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:16:01.188Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:16:01.794Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.57%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:16:01.794Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:16:02.096Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:17:00.481Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:17:00.722Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:17:00.722Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:17:00.819Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:17:00.819Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:17:00.819Z"}
+info: Analysis for AIZ: Score 20 (SELL) [Tech:10 Mom:0 Fund:10 News:0] {"timestamp":"2025-12-01T20:17:01.280Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.31%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:17:01.281Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:17:01.872Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.62%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:17:01.872Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:17:02.172Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:18:00.597Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:18:00.837Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:18:00.837Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:18:00.927Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:18:00.927Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:18:00.927Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:18:01.543Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:18:02.133Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.72%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:18:02.133Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:18:02.435Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:19:00.719Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:19:00.991Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:19:00.991Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:19:01.110Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:19:01.110Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:19:01.110Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:19:01.762Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:19:02.369Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.78%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:19:02.369Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:19:02.671Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:20:00.827Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:20:01.031Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:20:01.032Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:20:01.092Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:20:01.092Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:20:01.093Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:20:01.785Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:20:02.383Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.76%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:20:02.384Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:20:02.686Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:21:00.935Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:21:01.185Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:21:01.185Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:21:01.296Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:21:01.296Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:21:01.296Z"}
+info: Analysis for AIZ: Score 20 (SELL) [Tech:10 Mom:0 Fund:10 News:0] {"timestamp":"2025-12-01T20:21:01.718Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.43%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:21:01.718Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:21:02.313Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.76%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:21:02.313Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:21:02.615Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:22:00.041Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:22:00.289Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:22:00.289Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:22:00.357Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:22:00.358Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:22:00.358Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:22:01.024Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:22:01.635Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.74%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:22:01.636Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:22:01.938Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:23:00.148Z"}
+info: Current Balance (USD): $0 {"timestamp":"2025-12-01T20:23:00.324Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:23:00.324Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:23:00.459Z"}
+info: Low Balance ($0 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:23:00.459Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:23:00.459Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:23:01.071Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:23:01.690Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.72%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:23:01.690Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:23:01.992Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:24:00.258Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:24:00.473Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:24:00.473Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:24:00.619Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:24:00.619Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:24:00.619Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:24:01.265Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:24:01.858Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.64%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:24:01.858Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:24:02.161Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:25:00.366Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:25:00.610Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:25:00.610Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:25:00.684Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:25:00.684Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:25:00.684Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:25:01.253Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:25:01.857Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.61%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:25:01.857Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:25:02.160Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:26:00.489Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:26:00.692Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:26:00.692Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:26:00.799Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:26:00.799Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:26:00.799Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:26:01.437Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:26:02.031Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.61%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:26:02.031Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:26:02.332Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:27:00.599Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:27:00.898Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:27:00.898Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:27:00.983Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:27:00.983Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:27:00.983Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:27:01.655Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:27:02.287Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.49%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:27:02.287Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:27:02.590Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:28:00.717Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:28:01.000Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:28:01.000Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:28:01.082Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:28:01.082Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:28:01.082Z"}
+info: Analysis for AIZ: Score 20 (SELL) [Tech:10 Mom:0 Fund:10 News:0] {"timestamp":"2025-12-01T20:28:01.643Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.5%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:28:01.644Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:28:02.269Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.93%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:28:02.269Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:28:02.572Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:29:00.829Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:29:01.049Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:29:01.049Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:29:01.158Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:29:01.158Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:29:01.159Z"}
+info: Analysis for AIZ: Score 20 (SELL) [Tech:10 Mom:0 Fund:10 News:0] {"timestamp":"2025-12-01T20:29:01.624Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.5%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:29:01.625Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:29:02.226Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.94%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:29:02.226Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:29:02.529Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:30:00.941Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:30:01.137Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:30:01.137Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:30:01.205Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:30:01.205Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:30:01.205Z"}
+info: Analysis for AIZ: Score 20 (SELL) [Tech:10 Mom:0 Fund:10 News:0] {"timestamp":"2025-12-01T20:30:01.690Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.5%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:30:01.690Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:30:02.297Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.92%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:30:02.298Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:30:02.599Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:31:00.007Z"}
+info: Current Balance (USD): $0 {"timestamp":"2025-12-01T20:31:00.155Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:31:00.156Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:31:00.269Z"}
+info: Low Balance ($0 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:31:00.269Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:31:00.269Z"}
+info: Analysis for AIZ: Score 20 (SELL) [Tech:10 Mom:0 Fund:10 News:0] {"timestamp":"2025-12-01T20:31:00.752Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.5%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:31:00.753Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:31:01.370Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.96%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:31:01.370Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:31:01.673Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:32:00.125Z"}
+info: Current Balance (USD): $0 {"timestamp":"2025-12-01T20:32:00.266Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:32:00.266Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:32:00.441Z"}
+info: Low Balance ($0 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:32:00.441Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:32:00.441Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:32:00.914Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.48%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:32:00.914Z"}
+info: Analysis for APA: Score 15 (SELL) [Tech:20 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:32:01.994Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.07%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:32:01.994Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:32:02.297Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:33:00.235Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:33:00.543Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:33:00.543Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:33:00.623Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:33:00.624Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:33:00.624Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:33:01.259Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:33:01.855Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:33:01.855Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:33:02.157Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:34:00.350Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:34:00.540Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:34:00.540Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:34:00.627Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:34:00.627Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:34:00.627Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:34:01.287Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:34:01.901Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:34:01.901Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:34:02.204Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:35:00.461Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:35:00.710Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:35:00.710Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:35:00.726Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:35:00.726Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:35:00.726Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:35:01.290Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:35:01.991Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.88%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:35:01.992Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:35:02.293Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:36:00.567Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:36:00.768Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:36:00.768Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:36:00.840Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:36:00.840Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:36:00.841Z"}
+info: Analysis for AIZ: Score 70 (BUY) [Tech:20 Mom:30 Fund:10 News:10] {"timestamp":"2025-12-01T20:36:01.428Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:36:02.030Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.84%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:36:02.030Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:36:02.333Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:37:00.673Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:37:00.900Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:37:00.901Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:37:00.964Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:37:00.964Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:37:00.964Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:37:01.429Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.57%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:37:01.429Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:37:02.028Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.84%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:37:02.028Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:37:02.329Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:54:00.959Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:54:01.681Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:54:01.681Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:54:01.712Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:54:01.712Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:54:01.712Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:54:02.399Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-0.97%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:54:02.399Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:54:03.012Z"}
+info: [HOLD] Sell Signal for APA but Profit (-0.96%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:54:03.012Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:54:03.314Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:55:00.065Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:55:00.289Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:55:00.290Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:55:00.365Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:55:00.365Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:55:00.366Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:55:00.822Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:55:01.419Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.11%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:55:01.419Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:55:01.721Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:56:00.175Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:56:00.410Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:56:00.410Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:56:00.470Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:56:00.470Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:56:00.470Z"}
+info: Analysis for AIZ: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:56:00.964Z"}
+info: [HOLD] Sell Signal for AIZ but Profit (-1.03%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:56:00.964Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:56:01.597Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.32%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:56:01.597Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:56:01.899Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:57:00.284Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:57:00.484Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:57:00.484Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:57:00.564Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:57:00.564Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:57:00.564Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:57:00.998Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:57:01.587Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.41%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:57:01.587Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:57:01.889Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:58:00.400Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:58:00.685Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:58:00.685Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:58:00.808Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:58:00.808Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:58:00.809Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:58:01.278Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:58:01.890Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.52%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:58:01.890Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:58:02.192Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T20:59:00.499Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T20:59:00.728Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T20:59:00.728Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T20:59:00.832Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T20:59:00.833Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T20:59:00.833Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T20:59:01.408Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T20:59:02.044Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.37%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T20:59:02.045Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T20:59:02.348Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T21:00:00.601Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T21:00:00.857Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T21:00:00.857Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T21:00:00.957Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T21:00:00.957Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T21:00:00.958Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T21:00:01.432Z"}
+info: Analysis for APA: Score 15 (SELL) [Tech:20 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T21:00:02.304Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.37%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T21:00:02.304Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:00:02.604Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T21:01:00.710Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T21:01:00.938Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T21:01:00.938Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T21:01:01.033Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T21:01:01.033Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T21:01:01.033Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T21:01:01.483Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T21:01:02.090Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.31%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T21:01:02.090Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:01:02.390Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T21:02:00.822Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T21:02:01.102Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T21:02:01.102Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T21:02:01.196Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T21:02:01.197Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T21:02:01.197Z"}
+info: Analysis for AIZ: Score 55 (HOLD) [Tech:20 Mom:15 Fund:10 News:10] {"timestamp":"2025-12-01T21:02:01.927Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T21:02:02.528Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.31%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T21:02:02.528Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:02:02.829Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T21:03:00.928Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T21:03:01.140Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T21:03:01.140Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T21:03:01.198Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T21:03:01.198Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T21:03:01.198Z"}
+info: Analysis for AIZ: Score 55 (HOLD) [Tech:20 Mom:15 Fund:10 News:10] {"timestamp":"2025-12-01T21:03:01.968Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T21:03:02.562Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.25%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T21:03:02.562Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:03:02.865Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T21:04:00.044Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T21:04:00.225Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T21:04:00.225Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T21:04:00.302Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T21:04:00.302Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T21:04:00.302Z"}
+info: Analysis for AIZ: Score 55 (HOLD) [Tech:20 Mom:15 Fund:10 News:10] {"timestamp":"2025-12-01T21:04:01.067Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T21:04:01.671Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.25%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T21:04:01.671Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:04:01.973Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T21:05:00.157Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T21:05:00.418Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T21:05:00.419Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T21:05:00.494Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T21:05:00.494Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T21:05:00.494Z"}
+info: Analysis for AIZ: Score 55 (HOLD) [Tech:20 Mom:15 Fund:10 News:10] {"timestamp":"2025-12-01T21:05:01.215Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T21:05:01.830Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.25%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T21:05:01.830Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:05:02.133Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T21:06:00.265Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T21:06:00.497Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T21:06:00.497Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T21:06:00.578Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T21:06:00.578Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T21:06:00.578Z"}
+info: Analysis for AIZ: Score 55 (HOLD) [Tech:20 Mom:15 Fund:10 News:10] {"timestamp":"2025-12-01T21:06:01.258Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T21:06:01.876Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.25%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T21:06:01.876Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:06:02.178Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T21:07:00.374Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T21:07:00.647Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T21:07:00.647Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T21:07:00.735Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T21:07:00.735Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T21:07:00.735Z"}
+info: Analysis for AIZ: Score 55 (HOLD) [Tech:20 Mom:15 Fund:10 News:10] {"timestamp":"2025-12-01T21:07:01.270Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T21:07:01.874Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.25%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T21:07:01.874Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:07:02.177Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T21:08:00.483Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T21:08:00.716Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T21:08:00.716Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T21:08:00.783Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T21:08:00.784Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T21:08:00.784Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T21:08:01.267Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T21:08:01.896Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.25%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T21:08:01.896Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:08:02.197Z"}
+info: Starting Trading Cycle... {"timestamp":"2025-12-01T21:09:00.586Z"}
+info: Current Balance (USD): $38.24 {"timestamp":"2025-12-01T21:09:00.851Z"}
+info: Current Holdings: AIZ(1), APA(1) {"timestamp":"2025-12-01T21:09:00.851Z"}
+info: Total Tickers: 510 {"timestamp":"2025-12-01T21:09:00.906Z"}
+info: Low Balance ($38.24 < $50). Monitoring 2 holdings only. {"timestamp":"2025-12-01T21:09:00.906Z"}
+info: Affordable/Held Tickers to Analyze: 2 / 510 {"timestamp":"2025-12-01T21:09:00.906Z"}
+info: Analysis for AIZ: Score 35 (HOLD) [Tech:10 Mom:15 Fund:10 News:0] {"timestamp":"2025-12-01T21:09:01.369Z"}
+info: Analysis for APA: Score 5 (SELL) [Tech:10 Mom:-15 Fund:10 News:0] {"timestamp":"2025-12-01T21:09:01.975Z"}
+info: [HOLD] Sell Signal for APA but Profit (-1.25%) is too low to cover fees (> 0.5%). Waiting... {"timestamp":"2025-12-01T21:09:01.975Z"}
+info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:09:02.277Z"}

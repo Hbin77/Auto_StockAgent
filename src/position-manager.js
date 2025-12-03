@@ -100,6 +100,12 @@ class PositionManager {
      * @param {Array} holdings - KIS API에서 가져온 현재 보유 종목 리스트
      */
     syncPositions(holdings) {
+        // Safety check: If holdings is null or undefined (API error), do NOT sync/delete positions
+        if (!holdings || !Array.isArray(holdings)) {
+            console.warn('[PositionManager] Skipping position sync due to invalid holdings data (API Error likely).');
+            return;
+        }
+
         const currentSymbols = new Set(holdings.map(h => h.symbol));
         const storedSymbols = Object.keys(this.positions);
         let changed = false;

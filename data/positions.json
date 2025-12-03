@@ -1,26 +1,50 @@
 {
-  "AIZ": {
-    "symbol": "AIZ",
-    "entryPrice": 227.92,
-    "quantity": 1,
-    "score": 50,
-    "entryTime": 1764694381741,
-    "highestPrice": 227.92,
-    "lowestPrice": 221.325,
-    "trailingStopActive": false,
-    "currentStopLoss": 221.08239999999998,
-    "takeProfitLevelsHit": []
-  },
   "AMCR": {
     "symbol": "AMCR",
     "entryPrice": 8.355,
     "quantity": 1,
     "score": 62,
     "entryTime": 1764695572843,
-    "highestPrice": 8.45,
+    "highestPrice": 8.465,
     "lowestPrice": 8.33,
     "trailingStopActive": false,
     "currentStopLoss": 8.363355,
+    "takeProfitLevelsHit": []
+  },
+  "APA": {
+    "symbol": "APA",
+    "entryPrice": 26.675,
+    "quantity": 1,
+    "score": 85,
+    "entryTime": 1764788829730,
+    "highestPrice": 26.675,
+    "lowestPrice": 26.675,
+    "trailingStopActive": false,
+    "currentStopLoss": 25.87475,
+    "takeProfitLevelsHit": []
+  },
+  "ANET": {
+    "symbol": "ANET",
+    "entryPrice": 127.98,
+    "quantity": 1,
+    "score": 80,
+    "entryTime": 1764788830536,
+    "highestPrice": 127.98,
+    "lowestPrice": 127.98,
+    "trailingStopActive": false,
+    "currentStopLoss": 124.1406,
+    "takeProfitLevelsHit": []
+  },
+  "BBWI": {
+    "symbol": "BBWI",
+    "entryPrice": 19.165,
+    "quantity": 1,
+    "score": 100,
+    "entryTime": 1764788831405,
+    "highestPrice": 19.165,
+    "lowestPrice": 19.165,
+    "trailingStopActive": false,
+    "currentStopLoss": 18.590049999999998,
     "takeProfitLevelsHit": []
   }
 }

@@ -81,6 +81,12 @@ class EnhancedTrader {
             // 2. 계좌 정보 조회
             // ============================================
             const accountData = await kisApi.getBalance();
+
+            if (!accountData) {
+                logger.error('Failed to fetch account balance. Skipping trading cycle to prevent data loss.');
+                return;
+            }
+
             const buyingPower = accountData.buyingPower;
             const holdings = accountData.holdings;
             const totalCapital = buyingPower + holdings.reduce((sum, h) => sum + (h.currentPrice * h.qty), 0);
@@ -243,7 +249,7 @@ class EnhancedTrader {
             // 상위 50개만 유지
             if (results.length >= 50) break;
 
-            await new Promise(resolve => setTimeout(resolve, 500));
+            await new Promise(resolve => setTimeout(resolve, 200)); // Reduced delay from 500ms to 200ms
         }
 
         // 변동성 점수로 정렬

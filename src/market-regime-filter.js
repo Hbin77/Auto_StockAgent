@@ -43,10 +43,10 @@ class MarketRegimeFilter {
                 vix: null,
                 spyTrend: 'UNKNOWN',
                 tradingSession: this.getTradingSession(),
-                allowBuy: true,
+                allowBuy: false, // FAIL-SAFE: Do not allow buy if data is missing
                 allowSell: true,
-                positionSizeMultiplier: 1.0,
-                message: 'Market data unavailable, using defaults'
+                positionSizeMultiplier: 0.5, // Reduce size if trading on stale/partial data
+                message: 'Market data unavailable, using defaults (Buy Disabled)'
             };
         }
     }

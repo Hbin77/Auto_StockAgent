@@ -41624,3 +41624,145 @@ info: Trading Cycle Completed. {"timestamp":"2025-12-01T21:09:02.277Z"}
 [2025-12-02T21:09:38.348Z] INFO: ========================================
 [2025-12-02T21:09:38.349Z] INFO: Enhanced Trading Cycle Completed
 [2025-12-02T21:09:38.349Z] INFO: ========================================
+[2025-12-03T02:39:36.156Z] INFO: ========================================
+[2025-12-03T02:39:36.156Z] INFO: Starting Enhanced Trading Cycle...
+[2025-12-03T02:39:36.156Z] INFO: ========================================
+[2025-12-03T02:39:38.352Z] INFO: Market Regime: BULLISH | VIX: 16.59 | SPY: BULLISH
+[2025-12-03T02:39:38.352Z] INFO: Session: CLOSED | Allow Buy: false | Position Multiplier: 1.2
+[2025-12-03T02:39:38.352Z] INFO: Market closed or conditions not favorable. Skipping cycle.
+[2025-12-03T02:40:00.189Z] INFO: ========================================
+[2025-12-03T02:40:00.189Z] INFO: Starting Enhanced Trading Cycle...
+[2025-12-03T02:40:00.190Z] INFO: ========================================
+[2025-12-03T02:40:00.190Z] INFO: Market Regime: BULLISH | VIX: 16.59 | SPY: BULLISH
+[2025-12-03T02:40:00.190Z] INFO: Session: CLOSED | Allow Buy: false | Position Multiplier: 1.2
+[2025-12-03T02:40:00.190Z] INFO: Market closed or conditions not favorable. Skipping cycle.
+[2025-12-03T02:41:00.257Z] INFO: ========================================
+[2025-12-03T02:41:00.257Z] INFO: Starting Enhanced Trading Cycle...
+[2025-12-03T02:41:00.257Z] INFO: ========================================
+[2025-12-03T02:41:00.258Z] INFO: Market Regime: BULLISH | VIX: 16.59 | SPY: BULLISH
+[2025-12-03T02:41:00.258Z] INFO: Session: CLOSED | Allow Buy: false | Position Multiplier: 1.2
+[2025-12-03T02:41:00.258Z] INFO: Market closed or conditions not favorable. Skipping cycle.
+[2025-12-03T11:23:55.081Z] INFO: ========================================
+[2025-12-03T11:23:55.081Z] INFO: Starting Enhanced Trading Cycle...
+[2025-12-03T11:23:55.082Z] INFO: ========================================
+[2025-12-03T11:23:56.564Z] INFO: Market Regime: BULLISH | VIX: 16.58 | SPY: BULLISH
+[2025-12-03T11:23:56.564Z] INFO: Session: PREMARKET | Allow Buy: false | Position Multiplier: 1.2
+[2025-12-03T11:23:56.565Z] INFO: Market closed or conditions not favorable. Skipping cycle.
+[2025-12-03T11:24:00.094Z] INFO: ========================================
+[2025-12-03T11:24:00.095Z] INFO: Starting Enhanced Trading Cycle...
+[2025-12-03T11:24:00.095Z] INFO: ========================================
+[2025-12-03T11:24:00.096Z] INFO: Market Regime: BULLISH | VIX: 16.58 | SPY: BULLISH
+[2025-12-03T11:24:00.096Z] INFO: Session: PREMARKET | Allow Buy: false | Position Multiplier: 1.2
+[2025-12-03T11:24:00.096Z] INFO: Market closed or conditions not favorable. Skipping cycle.
+[2025-12-03T19:05:16.654Z] INFO: ========================================
+[2025-12-03T19:05:16.654Z] INFO: Starting Enhanced Trading Cycle...
+[2025-12-03T19:05:16.654Z] INFO: ========================================
+[2025-12-03T19:05:18.179Z] INFO: Market Regime: BULLISH | VIX: 16.03 | SPY: BULLISH
+[2025-12-03T19:05:18.179Z] INFO: Session: CORE | Allow Buy: true | Position Multiplier: 1.2
+[2025-12-03T19:05:18.638Z] INFO: Balance: $61.43 | Holdings: 2 | Total Capital: $291.02
+[2025-12-03T19:05:18.638Z] INFO: Managing 2 existing positions...
+[2025-12-03T19:05:18.789Z] WARN: [STOP_LOSS] AIZ: Stop loss triggered at -3.09%
+[2025-12-03T19:05:18.789Z] INFO: [SELL] AIZ x1 @ $220.88 (Reason: STOP_LOSS)
+[2025-12-03T19:05:19.716Z] INFO: Screening 510 tickers...
+[2025-12-03T19:05:34.447Z] INFO: Found 50 high-volatility affordable stocks
+[2025-12-03T19:05:34.823Z] INFO: APA: Score 65 (BUY) | Confidence: 50% | Volatility: 4.07%
+[2025-12-03T19:05:34.824Z] WARN: [SKIP] APA: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:35.199Z] INFO: BBWI: Score 65 (BUY) | Confidence: 50% | Volatility: 5.77%
+[2025-12-03T19:05:35.199Z] WARN: [SKIP] BBWI: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:35.514Z] INFO: CZR: Score 60 (BUY) | Confidence: 50% | Volatility: 4.00%
+[2025-12-03T19:05:35.514Z] WARN: [SKIP] CZR: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:35.922Z] INFO: KMX: Score 65 (BUY) | Confidence: 50% | Volatility: 4.74%
+[2025-12-03T19:05:35.923Z] WARN: [SKIP] KMX: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:36.294Z] INFO: CCL: Score 55 (HOLD) | Confidence: 50% | Volatility: 4.01%
+[2025-12-03T19:05:36.945Z] INFO: CE: Score 60 (BUY) | Confidence: 50% | Volatility: 4.73%
+[2025-12-03T19:05:36.946Z] WARN: [SKIP] CE: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:37.266Z] INFO: CNC: Score 60 (BUY) | Confidence: 50% | Volatility: 4.01%
+[2025-12-03T19:05:37.267Z] WARN: [SKIP] CNC: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:37.589Z] INFO: ENPH: Score 55 (HOLD) | Confidence: 50% | Volatility: 5.56%
+[2025-12-03T19:05:38.218Z] INFO: ETSY: Score 50 (HOLD) | Confidence: 50% | Volatility: 4.76%
+[2025-12-03T19:05:38.875Z] INFO: FMC: Score 50 (HOLD) | Confidence: 50% | Volatility: 4.49%
+[2025-12-03T19:05:39.517Z] INFO: ARE: Score 40 (HOLD) | Confidence: 50% | Volatility: 3.89%
+[2025-12-03T19:05:40.143Z] INFO: AAL: Score 65 (BUY) | Confidence: 50% | Volatility: 3.87%
+[2025-12-03T19:05:40.144Z] WARN: [SKIP] AAL: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:40.494Z] INFO: XRAY: Score 60 (BUY) | Confidence: 50% | Volatility: 3.61%
+[2025-12-03T19:05:40.494Z] WARN: [SKIP] XRAY: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:40.813Z] INFO: DOW: Score 50 (HOLD) | Confidence: 50% | Volatility: 3.26%
+[2025-12-03T19:05:41.456Z] INFO: EQT: Score 65 (BUY) | Confidence: 50% | Volatility: 3.42%
+[2025-12-03T19:05:41.456Z] WARN: [SKIP] EQT: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:41.814Z] INFO: FCX: Score 63 (BUY) | Confidence: 50% | Volatility: 3.43%
+[2025-12-03T19:05:41.814Z] WARN: [SKIP] FCX: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:42.187Z] INFO: HAL: Score 55 (HOLD) | Confidence: 50% | Volatility: 3.20%
+[2025-12-03T19:05:42.868Z] INFO: HPE: Score 63 (BUY) | Confidence: 50% | Volatility: 3.56%
+[2025-12-03T19:05:42.868Z] WARN: [SKIP] HPE: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:43.400Z] INFO: HPQ: Score 65 (BUY) | Confidence: 50% | Volatility: 3.21%
+[2025-12-03T19:05:43.400Z] WARN: [SKIP] HPQ: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:44.049Z] INFO: AES: Score 52 (HOLD) | Confidence: 50% | Volatility: 2.93%
+[2025-12-03T19:05:44.778Z] INFO: ADM: Score 60 (BUY) | Confidence: 50% | Volatility: 2.83%
+[2025-12-03T19:05:44.778Z] WARN: [SKIP] ADM: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:45.266Z] INFO: BKR: Score 62 (BUY) | Confidence: 50% | Volatility: 2.86%
+[2025-12-03T19:05:45.266Z] WARN: [SKIP] BKR: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:45.761Z] INFO: BALL: Score 62 (BUY) | Confidence: 50% | Volatility: 2.55%
+[2025-12-03T19:05:45.761Z] WARN: [SKIP] BALL: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:46.220Z] INFO: BAX: Score 57 (HOLD) | Confidence: 50% | Volatility: 2.83%
+[2025-12-03T19:05:47.028Z] INFO: BWA: Score 47 (HOLD) | Confidence: 50% | Volatility: 2.17%
+[2025-12-03T19:05:47.907Z] INFO: BMY: Score 62 (BUY) | Confidence: 50% | Volatility: 2.57%
+[2025-12-03T19:05:47.907Z] WARN: [SKIP] BMY: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:48.289Z] INFO: CPB: Score 52 (HOLD) | Confidence: 50% | Volatility: 2.39%
+[2025-12-03T19:05:49.031Z] INFO: CARR: Score 60 (BUY) | Confidence: 50% | Volatility: 2.72%
+[2025-12-03T19:05:49.031Z] WARN: [SKIP] CARR: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:49.348Z] INFO: CMG: Score 60 (BUY) | Confidence: 50% | Volatility: 2.95%
+[2025-12-03T19:05:49.348Z] WARN: [SKIP] CMG: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:49.672Z] INFO: CFG: Score 62 (BUY) | Confidence: 50% | Volatility: 2.22%
+[2025-12-03T19:05:49.672Z] WARN: [SKIP] CFG: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:50.038Z] INFO: CMCSA: Score 62 (BUY) | Confidence: 50% | Volatility: 2.30%
+[2025-12-03T19:05:50.038Z] WARN: [SKIP] CMCSA: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:50.414Z] INFO: CAG: Score 62 (BUY) | Confidence: 50% | Volatility: 2.13%
+[2025-12-03T19:05:50.414Z] WARN: [SKIP] CAG: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:50.729Z] INFO: CPRT: Score 40 (HOLD) | Confidence: 50% | Volatility: 2.52%
+[2025-12-03T19:05:51.392Z] INFO: CTRA: Score 62 (BUY) | Confidence: 50% | Volatility: 2.61%
+[2025-12-03T19:05:51.392Z] WARN: [SKIP] CTRA: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:52.058Z] INFO: DVN: Score 62 (BUY) | Confidence: 50% | Volatility: 2.88%
+[2025-12-03T19:05:52.058Z] WARN: [SKIP] DVN: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:52.431Z] INFO: DD: Score 50 (HOLD) | Confidence: 50% | Volatility: 2.98%
+[2025-12-03T19:05:53.106Z] INFO: EIX: Score 42 (HOLD) | Confidence: 50% | Volatility: 2.26%
+[2025-12-03T19:05:53.851Z] INFO: EXC: Score 42 (HOLD) | Confidence: 50% | Volatility: 2.27%
+[2025-12-03T19:05:54.572Z] INFO: F: Score 52 (HOLD) | Confidence: 50% | Volatility: 2.20%
+[2025-12-03T19:05:55.190Z] INFO: GEN: Score 60 (BUY) | Confidence: 50% | Volatility: 2.29%
+[2025-12-03T19:05:55.191Z] WARN: [SKIP] GEN: Max exposure (80%) would be exceeded
+[2025-12-03T19:05:55.552Z] INFO: HST: Score 52 (HOLD) | Confidence: 50% | Volatility: 2.42%
+[2025-12-03T19:05:56.239Z] INFO: T: Score 49 (HOLD) | Confidence: 50% | Volatility: 1.75%
+[2025-12-03T19:05:56.924Z] INFO: BAC: Score 59 (HOLD) | Confidence: 50% | Volatility: 1.92%
+[2025-12-03T19:05:57.637Z] INFO: CNP: Score 37 (HOLD) | Confidence: 50% | Volatility: 1.53%
+[2025-12-03T19:05:58.299Z] INFO: CSX: Score 57 (HOLD) | Confidence: 50% | Volatility: 1.75%
+[2025-12-03T19:05:58.957Z] INFO: D: Score 39 (HOLD) | Confidence: 50% | Volatility: 1.77%
+[2025-12-03T19:05:59.601Z] INFO: FAST: Score 54 (HOLD) | Confidence: 50% | Volatility: 1.80%
+[2025-12-03T19:06:00.265Z] INFO: FITB: Score 59 (HOLD) | Confidence: 50% | Volatility: 1.98%
+[2025-12-03T19:06:00.715Z] WARN: Trading cycle already in progress. Skipping...
+[2025-12-03T19:06:00.897Z] INFO: FE: Score 39 (HOLD) | Confidence: 50% | Volatility: 1.68%
+[2025-12-03T19:06:01.198Z] INFO: Executed 0 trades in this cycle.
+[2025-12-03T19:06:01.198Z] INFO: ========================================
+[2025-12-03T19:06:01.198Z] INFO: Enhanced Trading Cycle Completed
+[2025-12-03T19:06:01.198Z] INFO: ========================================
+[2025-12-03T19:07:00.789Z] INFO: ========================================
+[2025-12-03T19:07:00.789Z] INFO: Starting Enhanced Trading Cycle...
+[2025-12-03T19:07:00.789Z] INFO: ========================================
+[2025-12-03T19:07:00.789Z] INFO: Market Regime: BULLISH | VIX: 16.03 | SPY: BULLISH
+[2025-12-03T19:07:00.790Z] INFO: Session: CORE | Allow Buy: true | Position Multiplier: 1.2
+[2025-12-03T19:07:00.965Z] INFO: Balance: $279.99 | Holdings: 1 | Total Capital: $288.45
+[2025-12-03T19:07:00.966Z] INFO: Managing 1 existing positions...
+[2025-12-03T19:07:01.753Z] INFO: Screening 510 tickers...
+[2025-12-03T19:07:07.772Z] INFO: Found 50 high-volatility affordable stocks
+[2025-12-03T19:07:08.094Z] INFO: AMD: Score 47 (HOLD) | Confidence: 50% | Volatility: 6.53%
+[2025-12-03T19:07:08.967Z] INFO: ALB: Score 100 (STRONG_BUY) | Confidence: 90% | Volatility: 5.15%
+[2025-12-03T19:07:08.967Z] INFO: [BUY] ALB x1 @ $126.18 (Score: 100, Confidence: 90%)
+[2025-12-03T19:07:09.517Z] INFO: APA: Score 85 (STRONG_BUY) | Confidence: 70% | Volatility: 4.07%
+[2025-12-03T19:07:09.517Z] INFO: [BUY] APA x1 @ $26.68 (Score: 85, Confidence: 70%)
+[2025-12-03T19:07:10.358Z] INFO: ANET: Score 80 (STRONG_BUY) | Confidence: 60% | Volatility: 4.59%
+[2025-12-03T19:07:10.359Z] INFO: [BUY] ANET x1 @ $127.98 (Score: 80, Confidence: 60%)
+[2025-12-03T19:07:11.246Z] INFO: BBWI: Score 100 (STRONG_BUY) | Confidence: 90% | Volatility: 5.77%
+[2025-12-03T19:07:11.246Z] INFO: [BUY] BBWI x1 @ $19.16 (Score: 100, Confidence: 90%)
+[2025-12-03T19:07:11.708Z] INFO: Max trades per cycle (3) reached.
+[2025-12-03T19:07:11.708Z] INFO: Executed 3 trades in this cycle.
+[2025-12-03T19:07:11.709Z] INFO: ========================================
+[2025-12-03T19:07:11.709Z] INFO: Enhanced Trading Cycle Completed
+[2025-12-03T19:07:11.709Z] INFO: ========================================

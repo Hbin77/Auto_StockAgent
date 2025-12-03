@@ -153,8 +153,8 @@ class KisApi {
             return balance;
         } catch (error) {
             logger.error(`Get Balance Error: ${error.message}`);
-            // Return empty structure on error to prevent crashes
-            return { buyingPower: 0, holdings: [] };
+            // Return null on error to indicate failure, preventing downstream data loss
+            return null;
         }
     }
 

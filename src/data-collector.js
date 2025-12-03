@@ -57,7 +57,7 @@ class DataCollector {
      */
     async fetchQuote(symbol) {
         try {
-            const quote = await yahooFinance.quote(symbol);
+            const quote = await yahooFinance.quote(symbol, {}, { validateResult: false });
             return quote;
         } catch (error) {
             logger.error(`Error fetching quote for ${symbol}: ${error.message}`);

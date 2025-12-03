@@ -1131,3 +1131,11 @@ error: Error fetching bulk quotes: Failed Yahoo Schema validation
 error: Error fetching bulk quotes: Failed Yahoo Schema validation
 error: Error fetching bulk quotes: Failed Yahoo Schema validation
 error: Error fetching data for APA: fetch failed
+error: Error fetching quote for BRK.B: Failed Yahoo Schema validation
+error: Error fetching quote for CNC: fetch failed
+error: Error fetching quote for COR: fetch failed
+error: Error fetching quote for CNP: fetch failed
+error: Error fetching quote for CE: fetch failed
+error: Error fetching quote for BRK.B: Failed Yahoo Schema validation
+error: Error fetching quote for BRK.B: Failed Yahoo Schema validation
+error: Error fetching quote for BRK.B: Failed Yahoo Schema validation

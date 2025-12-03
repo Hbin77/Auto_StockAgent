@@ -96,6 +96,28 @@ class PositionManager {
     }
 
     /**
+     * 포지션 동기화 (실제 보유하지 않은 포지션 제거)
+     * @param {Array} holdings - KIS API에서 가져온 현재 보유 종목 리스트
+     */
+    syncPositions(holdings) {
+        const currentSymbols = new Set(holdings.map(h => h.symbol));
+        const storedSymbols = Object.keys(this.positions);
+        let changed = false;
+
+        for (const symbol of storedSymbols) {
+            if (!currentSymbols.has(symbol)) {
+                console.log(`[PositionManager] Removing stale position: ${symbol}`);
+                delete this.positions[symbol];
+                changed = true;
+            }
+        }
+
+        if (changed) {
+            this._savePositions();
+        }
+    }
+
+    /**
      * 가격 업데이트 및 트레일링 스탑 체크
      */
     updatePrice(symbol, currentPrice) {
@@ -282,7 +304,7 @@ class PositionManager {
     calculateTotalExposure(holdings, totalCapital) {
         if (!holdings || holdings.length === 0) return 0;
 
-        const totalValue = holdings.reduce((sum, h) => sum + (h.currentValue || 0), 0);
+        const totalValue = holdings.reduce((sum, h) => sum + ((h.currentValue || (h.currentPrice * h.qty)) || 0), 0);
         return (totalValue / totalCapital) * 100;
     }
 

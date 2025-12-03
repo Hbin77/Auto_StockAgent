@@ -115,6 +115,7 @@ class DayTradingMonitor {
             indicators,
             score,
             signals,
+            currentPrice, // Added currentPrice
             stopLoss: currentPrice - (1.5 * indicators.atr),
             takeProfit: currentPrice + (2 * indicators.atr)
         };

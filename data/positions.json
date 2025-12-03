@@ -1,0 +1,26 @@
+{
+  "AIZ": {
+    "symbol": "AIZ",
+    "entryPrice": 227.92,
+    "quantity": 1,
+    "score": 50,
+    "entryTime": 1764694381741,
+    "highestPrice": 227.92,
+    "lowestPrice": 221.325,
+    "trailingStopActive": false,
+    "currentStopLoss": 221.08239999999998,
+    "takeProfitLevelsHit": []
+  },
+  "AMCR": {
+    "symbol": "AMCR",
+    "entryPrice": 8.355,
+    "quantity": 1,
+    "score": 62,
+    "entryTime": 1764695572843,
+    "highestPrice": 8.45,
+    "lowestPrice": 8.33,
+    "trailingStopActive": false,
+    "currentStopLoss": 8.363355,
+    "takeProfitLevelsHit": []
+  }
+}

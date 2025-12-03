@@ -83,9 +83,14 @@ class EnhancedTrader {
             const accountData = await kisApi.getBalance();
             const buyingPower = accountData.buyingPower;
             const holdings = accountData.holdings;
-            const totalCapital = buyingPower + holdings.reduce((sum, h) => sum + (h.currentValue || 0), 0);
+            const totalCapital = buyingPower + holdings.reduce((sum, h) => sum + (h.currentPrice * h.qty), 0);
 
             logger.info(`Balance: $${buyingPower.toFixed(2)} | Holdings: ${holdings.length} | Total Capital: $${totalCapital.toFixed(2)}`);
+
+            // ============================================
+            // 2.1. 포지션 동기화 (외부 매도 대응)
+            // ============================================
+            positionManager.syncPositions(holdings);
 
             // ============================================
             // 3. 기존 포지션 관리 (트레일링 스탑 체크)
